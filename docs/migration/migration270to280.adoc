@@ -21,3 +21,11 @@ This release makes version 1.21.x works with recent Docker Engine changes.
 ==== Migration
 
 Changes are backwards compatible, doesn't need any migration.
+
+=== roaster-zephyr
+
+* Reporting test steps is fixed.
+
+==== Migration
+
+Changes are backwards compatible, doesn't need any migration.
